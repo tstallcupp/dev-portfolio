@@ -6,12 +6,12 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/html.png",
+                    "title": "HTML"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/css.png",
+                    "title": "CSS"
                 },
                 {
                     "icon": "images/skills/js.png",
@@ -22,8 +22,12 @@
                     "title": "Python"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
+                },
+                {
+                    "icon": "images/skills/postgres.png",
+                    "title": "Postgres"
                 }
         ]},
         {
